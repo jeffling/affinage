@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/jeffling/affinage",
+	"GoVersion": "go1.4.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/stripe/stripe-go",
+			"Comment": "v4.4.3",
+			"Rev": "90d96aa83232c6eb9136c25a97a56bec47b8db62"
+		}
+	]
+}
