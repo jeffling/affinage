@@ -6,6 +6,14 @@
 			"ImportPath": "github.com/stripe/stripe-go",
 			"Comment": "v4.4.3",
 			"Rev": "90d96aa83232c6eb9136c25a97a56bec47b8db62"
+		},
+		{
+			"ImportPath": "github.com/syndtr/goleveldb/leveldb",
+			"Rev": "e9e2c8f6d3b9c313fb4acaac5ab06285bcf30b04"
+		},
+		{
+			"ImportPath": "github.com/syndtr/gosnappy/snappy",
+			"Rev": "ce8acff4829e0c2458a67ead32390ac0a381c862"
 		}
 	]
 }
