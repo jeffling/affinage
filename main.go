@@ -28,7 +28,7 @@ func init() {
 	stripe.Key = AppConfig.StripeKey
 
 	graph = &GraphData{}
-	// storeCustomers(graph)
+	storeCustomers(graph)
 }
 
 func customers(w http.ResponseWriter, r *http.Request) {
